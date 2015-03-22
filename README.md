@@ -57,9 +57,13 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Standard Libraries
 *C++ Standard Library - including STL Containers, STL Aglorithm, STL Functional, etc.*
 
+* [The GNU C Library](http://elmerland.com/gnu_manual.html) - The purpose of this manual is to tell you how to use the facilities of the GNU C Library.
+
+http://elmerland.com/gnu_manual.html
+
 * [C++ Standard Library](http://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - A collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
 * [Standard Template Library](http://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
-* [C POSIX library](http://en.wikipedia.org/wiki/C_POSIX_library) - A specification of a C standard library for POSIX systems.
+* [C POSIX library](http://en.wikipedia.org/wiki/C_POSIX_library) - A  specification of a C standard library for POSIX systems.
 * [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee. [website](http://www.open-std.org/JTC1/SC22/WG21/)
 
 ## Frameworks
